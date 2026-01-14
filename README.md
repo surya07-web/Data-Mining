@@ -2,6 +2,7 @@
 
 Nama : Muhammad Surya Ramadhan
 Nim : A11.2023.14901  
+Kelompok : A11.64502
 Program Studi : Teknik Informatika – S1  
 Mata Kuliah : Data Mining  
 
